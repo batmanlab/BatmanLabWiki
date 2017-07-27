@@ -59,9 +59,9 @@ if [ -z $1 ]; then
 	else
 
 # Setup software paths
-	    export ANACONDA_HOME=/home/batmangh/anaconda2
-	    export PYTHON_ROOT=/home/batmangh/anaconda2
-	    export JUPYTER_RUNTIME_DIR=/home/batmangh/runtime
+#	    export ANACONDA_HOME=/home/batmangh/anaconda2
+#	    export PYTHON_ROOT=/home/batmangh/anaconda2
+#	    export JUPYTER_RUNTIME_DIR=/home/batmangh/runtime
 
 # create directory. it doesn't hurt anything if it already exists.
 #		mkdir -p ~/.jupyter
