@@ -110,8 +110,8 @@ def submit_c3ddb(cmd,
       raise ValueError('install this version, I don''t know where the engine is!')
     return mcrDir  
 
-  slurmLauncher = '/home/batmanghelich/Projects/CgGi/src/scripts/slurmLauncher.sh'
-  matlabExecHelper='/home/batmanghelich/Projects/CgGi/build/bin/runMatlabExec'
+  slurmLauncher = 'slurmLauncher_c3ddb.sh'
+  matlabExecHelper='runMatlabExec_c3ddb'
   
   cmdLine = ['sbatch']
   cmdLine = cmdLine +   ['-o' , stdOut, '-e', stdErr,  '--job-name', jobName]  
