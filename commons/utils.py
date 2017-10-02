@@ -55,8 +55,8 @@ def submit_PSCBridge(cmd,
       raise ValueError('install this version, I don''t know where the engine is!')
     return mcrDir  
 
-  slurmLauncher = '/pylon2/ms4s88p/batmangh/Projects/LungProject/src/scripts/slurmLauncher_bridge.sh'
-  matlabExecHelper='/pylon2/ms4s88p/batmangh/Projects/LungProject/build/bin/runMatlabExec'
+  slurmLauncher = os.path.realpath(__file__) + '/slurmLauncher_bridges.sh'
+  matlabExecHelper= os.path.realpath(__file__) + '/runMatlabExec_bridges'
   
   cmdLine = ['sbatch']
   cmdLine = cmdLine +   ['-o' , stdOut, '-e', stdErr,  '--job-name', jobName]  
@@ -110,8 +110,8 @@ def submit_c3ddb(cmd,
       raise ValueError('install this version, I don''t know where the engine is!')
     return mcrDir  
 
-  slurmLauncher = 'slurmLauncher_c3ddb.sh'
-  matlabExecHelper='runMatlabExec_c3ddb'
+  slurmLauncher = os.path.realpath(__file__) +  '/slurmLauncher_c3ddb.sh'
+  matlabExecHelper = os.path.realpath(__file__) +  '/runMatlabExec_c3ddb'
   
   cmdLine = ['sbatch']
   cmdLine = cmdLine +   ['-o' , stdOut, '-e', stdErr,  '--job-name', jobName]  
