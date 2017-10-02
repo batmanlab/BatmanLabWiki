@@ -1,0 +1,48 @@
+#! /usr/bin/bash
+__FILE__="$(cd -P -- "$(dirname -- "$BASH_SOURCE")" && pwd -P)/$(basename -- "$BASH_SOURCE")"; if [[ -n "$SGE_ROOT" ]] && [[ $__FILE__ =~ $SGE_ROOT/.* ]] && [[ -n "${CgGi_DIR}" ]] && [[ -f "${CgGi_DIR}/bin/runMatlabExec" ]]; then __FILE__="${CgGi_DIR}/bin/runMatlabExec"; fi; i=0; lnk="$__FILE__"; while [[ -h "$lnk" ]] && [[ $i -lt 100 ]]; do dir=`dirname -- "$lnk"`; lnk=`readlink -- "$lnk"`; lnk=`cd "$dir" && cd $(dirname -- "$lnk") && pwd`/`basename -- "$lnk"`; let i++; done; [[ $i -lt 100 ]] && __FILE__="$lnk"; unset -v i dir lnk; __DIR__="$(dirname -- "$__FILE__")"; BASIS_BASH_UTILITIES="$__DIR__/../lib/bash/cggi/basis.sh"; BASHPATH="/pylon2/ms4s88p/batmangh/Projects/LungProject/build/lib:/pylon2/ms4s88p/batmangh/Projects/LungProject/build/lib/bash:$BASHPATH" # <-- added by BASIS
+# script for execution of deployed applications
+#
+# Sets up the MCR environment for the current $ARCH and executes 
+# the specified command.
+#
+#exe_name=$0
+#exe_dir=`dirname "$0"`
+echo "------------------------------------------"
+if [ "x$1" = "x" ]; then
+  echo Usage:
+  echo    $0 \<deployedMCRroot\>  \<ExecFile\>  args
+else
+  exe_name=`basename   "$2"`
+  exe_dir=`dirname     "$2"`  
+  echo Setting up environment variables
+  MCRROOT="$1"
+  echo ---
+  LD_LIBRARY_PATH=.:${MCRROOT}/runtime/glnxa64 ;
+  LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${MCRROOT}/bin/glnxa64 ;
+  LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${MCRROOT}/sys/os/glnxa64;
+	MCRJRE=${MCRROOT}/sys/java/jre/glnxa64/jre/lib/amd64 ;
+	LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${MCRJRE}/native_threads ; 
+	LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${MCRJRE}/server ;
+	LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${MCRJRE}/client ;
+	LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${MCRJRE} ; 
+  LD_LIBRARY_PATH=/pylon2/ms4s88p/batmangh/installed/ITK-4.11-shared/lib/cmake/ITK-4.11:${LD_LIBRARY_PATH}
+  XAPPLRESDIR=${MCRROOT}/X11/app-defaults ;
+  export LD_LIBRARY_PATH;
+  export XAPPLRESDIR;
+  echo LD_LIBRARY_PATH is ${LD_LIBRARY_PATH};
+  shift 2
+  args=
+  while [ $# -gt 0 ]; do
+      token=`echo "$1" | sed 's/ /\\\\ /g'`   # Add blackslash before each blank
+      args="${args} ${token}" 
+      shift
+  done
+  tmpFolder=$(mktemp -d)
+  echo "temporary folder is located at : ${tmpFolder}"
+  export MCR_CACHE_ROOT=${tmpFolder}
+  echo "runnig :  "${exe_dir}"/"${exe_name}"   $args"
+
+  "${exe_dir}"/"${exe_name}"   $args
+  rm -rf ${tmpFolder}
+fi
+exit
