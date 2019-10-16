@@ -10,3 +10,6 @@
 * MICCAI 2018:
 * Draft of the Mingming paper:
 
+
+# Statistics
+* HSIC:
