@@ -6,7 +6,7 @@ https://arxiv.org/pdf/1910.04394.pdf
 
 
 # Meta-Learning
-- [ ] MAML: https://arxiv.org/abs/1703.03400
+- [X] MAML: https://arxiv.org/abs/1703.03400
 - [ ] Application with few-shot: 
 
 # Self-Supervised
