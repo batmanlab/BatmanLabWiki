@@ -7,4 +7,4 @@
 - [ ] The Reversible Residual Network:Backpropagation Without Storing Activations
 - [ ] Analyzing Inverse Problems withInvertible Neural Networks
 - [ ] i-RevNet: Deep Invertible Networks
-- [ ] Invertible Residual Networks [link][Invertible Residual Networks]
+- [ ] Invertible Residual Networks [link](https://arxiv.org/pdf/1811.00995.pdf)
