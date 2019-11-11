@@ -1,3 +1,8 @@
+# Generative model
+- [X] Energy based GAN model to maximize the entropy: https://openreview.net/pdf?id=HJlmhs05tm
+- [X] Fisher vector adversarial learning: Adversarial Fisher Vectors for Unsupervised
+Representation Learning
+
 # Weakly Supervised
 This is a stack of weakly supervised papers.
 
