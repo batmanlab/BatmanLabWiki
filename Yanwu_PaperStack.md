@@ -6,6 +6,7 @@
 # Weakly Supervised
 This is a stack of weakly supervised papers.
 
+- [ ]  A Brief Introduction to Weakly Supervised Learning: https://pdfs.semanticscholar.org/3adc/fd254b271bcc2fb7e2a62d750db17e6c2c08.pdf
 - [ ]  This is great paper by Masashi Sugiyama about different types of learning with weak labels
 https://arxiv.org/pdf/1910.04394.pdf
 
