@@ -12,6 +12,7 @@
 # Statistics
 * HSIC
 * Adversarial Fisher Vectors for Unsupervised Representation Learning
+* On the "steerability" of generative adversarial networks
 
 # Imaging-genetics
 * A review of multivariate analyses in imaging genetics
