@@ -1,6 +1,7 @@
 # Graph-neural networks:
 - [ ] Graph Neural Networks: A Review of Methods and Applications: https://arxiv.org/pdf/1812.08434.pdf
-
+- [ ] The Graph Neural Network Model: http://persagen.com/files/misc/scarselli2009graph.pdf
+- [ ] Relational inductive biases, deep learning, and graph networks: https://arxiv.org/pdf/1806.01261.pdf
 # Kernel learning:
 - [ ] Learning Deep Kernels for Non-Parametric Two-Sample Tests: https://arxiv.org/pdf/2002.09116.pdf
 - [ ] Implicit Kernel Learning: https://arxiv.org/pdf/1902.10214.pdf
