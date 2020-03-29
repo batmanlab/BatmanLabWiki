@@ -11,3 +11,4 @@
 
 # Patient-patient similarity:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
+- [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
