@@ -6,13 +6,18 @@
 * IPMI 2017: 
 * TMI 2015:
 * MICCAI 2018:
-* Draft of the Mingming paper
+
 
 
 # Statistics
 * HSIC
+* Draft of the Mingming paper
+
+# Representation
 * Adversarial Fisher Vectors for Unsupervised Representation Learning
 * On the "steerability" of generative adversarial networks
+* Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey
+* A Simple Framework for Contrastive Learning of Visual Representations
 
 # Imaging-genetics
 * A review of multivariate analyses in imaging genetics
