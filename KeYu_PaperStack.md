@@ -4,6 +4,7 @@
 - [ ] Relational inductive biases, deep learning, and graph networks: https://arxiv.org/pdf/1806.01261.pdf
 
 # Kernel learning:
+- [ ] Kernel Mean Embedding of Distributions: A Review and Beyond: https://arxiv.org/pdf/1605.09522.pdf
 - [X] Learning Deep Kernels for Non-Parametric Two-Sample Tests: https://arxiv.org/pdf/2002.09116.pdf
 - [X] Implicit Kernel Learning: https://arxiv.org/pdf/1902.10214.pdf
 - [X] Random Features for Large-Scale Kernel Machines: https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf
