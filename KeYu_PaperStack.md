@@ -8,6 +8,7 @@
 - [X] Random Features for Large-Scale Kernel Machines: https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf
 - [ ] On gradient regularizers for MMD GANs: https://arxiv.org/pdf/1805.11565.pdf
 - [ ] Adversarial Fisher Vectors for Unsupervised Representation Learning: https://arxiv.org/pdf/1910.13101.pdf
+- [ ] MMD GAN: Towards Deeper Understanding of Moment Matching Network: https://arxiv.org/pdf/1705.08584.pdf
 
 # Patient-patient similarity:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
