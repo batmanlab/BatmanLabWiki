@@ -1,7 +1,7 @@
 # Graph-neural networks:
 - [X] Graph Neural Networks: A Review of Methods and Applications: https://arxiv.org/pdf/1812.08434.pdf
 - [X] The Graph Neural Network Model: http://persagen.com/files/misc/scarselli2009graph.pdf
-- [ ] Relational inductive biases, deep learning, and graph networks: https://arxiv.org/pdf/1806.01261.pdf
+- [X] Relational inductive biases, deep learning, and graph networks: https://arxiv.org/pdf/1806.01261.pdf
 
 # Kernel learning:
 - [ ] Kernel Mean Embedding of Distributions: A Review and Beyond: https://arxiv.org/pdf/1605.09522.pdf
@@ -14,6 +14,6 @@
 - [ ] Wasserstein GAN: https://arxiv.org/pdf/1701.07875.pdf
 - [ ] GENERATIVE RATIO MATCHING NETWORKS https://openreview.net/pdf?id=SJg7spEYDS
 
-# Patient-patient similarity:
+# Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
 - [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
