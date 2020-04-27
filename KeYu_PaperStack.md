@@ -12,7 +12,7 @@
 - [ ] Adversarial Fisher Vectors for Unsupervised Representation Learning: https://arxiv.org/pdf/1910.13101.pdf
 - [X] MMD GAN: Towards Deeper Understanding of Moment Matching Network: https://arxiv.org/pdf/1705.08584.pdf
 - [ ] Wasserstein GAN: https://arxiv.org/pdf/1701.07875.pdf
-
+- [ ]GENERATIVE RATIO MATCHING NETWORKS https://openreview.net/pdf?id=SJg7spEYDS
 # Patient-patient similarity:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
 - [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
