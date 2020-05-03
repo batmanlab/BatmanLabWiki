@@ -23,7 +23,7 @@
 # Unsupervised learning
 - [X] Adversarial Latent Autoencoders
 - [X] Auto-GAN:Self-Supervised Collaborative Learning for Medical Image Synthesis
-- [ ] Prescribed Generative Adversarial Networks
+- [X] Prescribed Generative Adversarial Networks
 - [ ] Unsupervised Embedding Learning via Invariant and Spreading Instance Feature
 - [ ] Wasserstein Dependency Measure for Representation Learning
 - [ ] Neuromorphologicaly-preserving Volumetric data encoding using VQ-VAE
