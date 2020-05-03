@@ -21,6 +21,8 @@
 - [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION Lukas https://arxiv.org/pdf/1906.02694.pdf
 - [ ] Contrastive Self-Supervised Learning https://arxiv.org/pdf/1904.11567.pdf
 - [ ] Unsupervised Visual Representation Learning by Graph-based Consistent Constraints https://faculty.ucmerced.edu/mhyang/papers/eccv16_feature_learning.pdf
+- [ ] Revisiting Self-Supervised Visual Representation Learning https://arxiv.org/pdf/1901.09005.pdf
+- [ ] ClusterFit: Improving Generalization of Visual Representations https://arxiv.org/pdf/1912.03330.pdf
 
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
