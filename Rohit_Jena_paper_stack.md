@@ -10,6 +10,7 @@
 - [x] VesselNet [link](https://www.sciencedirect.com/science/article/abs/pii/S0895611118304099)
 - [x] VESSEL12 [link](https://www.sciencedirect.com/science/article/abs/pii/S136184151400111X)
 - [ ] DeepVesselNet [link](https://arxiv.org/pdf/1803.09340.pdf)
+- [ ] LBS Autoencoder: Self-supervised Fitting of Articulated Meshes to Point Clouds [link](https://arxiv.org/abs/1904.10037)
 
 
 ### Gauge theory
