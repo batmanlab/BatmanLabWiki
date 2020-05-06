@@ -14,7 +14,7 @@
 - [ ] Wasserstein GAN: https://arxiv.org/pdf/1701.07875.pdf
 - [ ] GENERATIVE RATIO MATCHING NETWORKS https://openreview.net/pdf?id=SJg7spEYDS
 - [ ] Unsupervised Deep Embedding for Clustering Analysis http://proceedings.mlr.press/v48/xieb16.pdf
-- [ ] https://arxiv.org/pdf/1904.11567.pdf https://arxiv.org/pdf/1904.11567.pdf
+- [ ] Unsupervised Deep Learning by Neighbourhood Discovery https://arxiv.org/pdf/1904.11567.pdf
 
 # Generative models/Energy models/Self-supervised learning:
 - [ ] TARGET-EMBEDDING AUTOENCODERS FOR SUPERVISED REPRESENTATION LEARNING https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf
