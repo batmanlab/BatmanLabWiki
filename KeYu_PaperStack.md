@@ -18,7 +18,7 @@
 
 # Generative models/Energy models/Self-supervised learning:
 - [ ] TARGET-EMBEDDING AUTOENCODERS FOR SUPERVISED REPRESENTATION LEARNING https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf
-- [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION Lukas https://arxiv.org/pdf/1906.02694.pdf
+- [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION https://arxiv.org/pdf/1906.02694.pdf
 - [ ] Contrastive Self-Supervised Learning https://arxiv.org/pdf/1904.11567.pdf
 - [ ] Unsupervised Visual Representation Learning by Graph-based Consistent Constraints https://faculty.ucmerced.edu/mhyang/papers/eccv16_feature_learning.pdf
 - [ ] Revisiting Self-Supervised Visual Representation Learning https://arxiv.org/pdf/1901.09005.pdf
