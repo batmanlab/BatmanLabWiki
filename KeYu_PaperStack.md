@@ -25,6 +25,7 @@
 - [ ] ClusterFit: Improving Generalization of Visual Representations https://arxiv.org/pdf/1912.03330.pdf
 - [ ] Learning deep representations by mutual information estimation and maximization https://arxiv.org/abs/1808.06670
 - [ ] DEEP GRAPH INFOMAX https://arxiv.org/pdf/1809.10341.pdf
+- [ ] Improved Deep Metric Learning with Multi-class N-pair Loss Objective http://papers.nips.cc/paper/6200-improved-deep-metric-learning-with-multi-class-n-pair-loss-objective.pdf
 
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
