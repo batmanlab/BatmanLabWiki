@@ -19,7 +19,7 @@
 # Energy models/Self-supervised learning:
 - [ ] TARGET-EMBEDDING AUTOENCODERS FOR SUPERVISED REPRESENTATION LEARNING https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf
 - [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION https://arxiv.org/pdf/1906.02694.pdf
-- [ ] Contrastive Self-Supervised Learning https://arxiv.org/pdf/1904.11567.pdf
+- [X] Contrastive Self-Supervised Learning https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html
 - [ ] Unsupervised Visual Representation Learning by Graph-based Consistent Constraints https://faculty.ucmerced.edu/mhyang/papers/eccv16_feature_learning.pdf
 - [ ] Revisiting Self-Supervised Visual Representation Learning https://arxiv.org/pdf/1901.09005.pdf
 - [ ] ClusterFit: Improving Generalization of Visual Representations https://arxiv.org/pdf/1912.03330.pdf
