@@ -16,13 +16,15 @@
 - [ ] Unsupervised Deep Embedding for Clustering Analysis http://proceedings.mlr.press/v48/xieb16.pdf
 - [ ] Unsupervised Deep Learning by Neighbourhood Discovery https://arxiv.org/pdf/1904.11567.pdf
 
-# Generative models/Energy models/Self-supervised learning:
+# Energy models/Self-supervised learning:
 - [ ] TARGET-EMBEDDING AUTOENCODERS FOR SUPERVISED REPRESENTATION LEARNING https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf
 - [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION https://arxiv.org/pdf/1906.02694.pdf
 - [ ] Contrastive Self-Supervised Learning https://arxiv.org/pdf/1904.11567.pdf
 - [ ] Unsupervised Visual Representation Learning by Graph-based Consistent Constraints https://faculty.ucmerced.edu/mhyang/papers/eccv16_feature_learning.pdf
 - [ ] Revisiting Self-Supervised Visual Representation Learning https://arxiv.org/pdf/1901.09005.pdf
 - [ ] ClusterFit: Improving Generalization of Visual Representations https://arxiv.org/pdf/1912.03330.pdf
+- [ ] Learning deep representations by mutual information estimation and maximization https://arxiv.org/abs/1808.06670
+- [ ] DEEP GRAPH INFOMAX https://arxiv.org/pdf/1809.10341.pdf
 
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
