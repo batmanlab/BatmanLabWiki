@@ -3,7 +3,7 @@
 - [X] The Graph Neural Network Model: http://persagen.com/files/misc/scarselli2009graph.pdf
 - [X] Relational inductive biases, deep learning, and graph networks: https://arxiv.org/pdf/1806.01261.pdf
 
-# Kernel learning:
+# Kernel/Unsupervised Metric learning:
 - [ ] Kernel Mean Embedding of Distributions: A Review and Beyond: https://arxiv.org/pdf/1605.09522.pdf
 - [X] Learning Deep Kernels for Non-Parametric Two-Sample Tests: https://arxiv.org/pdf/2002.09116.pdf
 - [X] Implicit Kernel Learning: https://arxiv.org/pdf/1902.10214.pdf
@@ -13,10 +13,20 @@
 - [X] MMD GAN: Towards Deeper Understanding of Moment Matching Network: https://arxiv.org/pdf/1705.08584.pdf
 - [ ] Wasserstein GAN: https://arxiv.org/pdf/1701.07875.pdf
 - [ ] GENERATIVE RATIO MATCHING NETWORKS https://openreview.net/pdf?id=SJg7spEYDS
+- [ ] Unsupervised Deep Embedding for Clustering Analysis http://proceedings.mlr.press/v48/xieb16.pdf
+- [ ] Unsupervised Deep Learning by Neighbourhood Discovery https://arxiv.org/pdf/1904.11567.pdf
 
-# Generative models:
+# Energy models/Self-supervised learning:
 - [ ] TARGET-EMBEDDING AUTOENCODERS FOR SUPERVISED REPRESENTATION LEARNING https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf
-- [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION Lukas https://arxiv.org/pdf/1906.02694.pdf
+- [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION https://arxiv.org/pdf/1906.02694.pdf
+- [X] Contrastive Self-Supervised Learning https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html
+- [ ] Unsupervised Visual Representation Learning by Graph-based Consistent Constraints https://faculty.ucmerced.edu/mhyang/papers/eccv16_feature_learning.pdf
+- [ ] Revisiting Self-Supervised Visual Representation Learning https://arxiv.org/pdf/1901.09005.pdf
+- [ ] ClusterFit: Improving Generalization of Visual Representations https://arxiv.org/pdf/1912.03330.pdf
+- [ ] Learning deep representations by mutual information estimation and maximization https://arxiv.org/abs/1808.06670
+- [ ] DEEP GRAPH INFOMAX https://arxiv.org/pdf/1809.10341.pdf
+- [ ] Improved Deep Metric Learning with Multi-class N-pair Loss Objective http://papers.nips.cc/paper/6200-improved-deep-metric-learning-with-multi-class-n-pair-loss-objective.pdf
+
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
 - [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
