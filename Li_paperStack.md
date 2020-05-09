@@ -29,7 +29,7 @@
 - [ ] Neuromorphologicaly-preserving Volumetric data encoding using VQ-VAE
 - [ ] Mutual Information Neural Estimation
 - [ ] Unsupervised Feature Learning via Non-Parametric Instance Discrimination
-- [ ] Learning deep representations by mutual information estimation and maximization
+- [X] Learning deep representations by mutual information estimation and maximization
 - [ ] A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications
 - [ ] An Introduction to Variational Autoencoders
 - [ ] Adversarial Fisher Vectors for Unsupervised Representation Learning
@@ -45,7 +45,7 @@
 # Disentanglement
 - [X] Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One
 - [X] GANSpace: Discovering Interpretable GAN Controls
-- [ ] High-Fidelity Synthesis with Disentangled Representation
+- [X] High-Fidelity Synthesis with Disentangled Representation
 - [ ] Learning Disentangled Representations with Semi-Supervised Deep Generative Models
 - [ ] Disentangled representation learning in cardiac image analysis
 
