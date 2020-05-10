@@ -15,6 +15,7 @@
 - [ ] GENERATIVE RATIO MATCHING NETWORKS https://openreview.net/pdf?id=SJg7spEYDS
 - [ ] Unsupervised Deep Embedding for Clustering Analysis http://proceedings.mlr.press/v48/xieb16.pdf
 - [ ] Unsupervised Deep Learning by Neighbourhood Discovery https://arxiv.org/pdf/1904.11567.pdf
+- [ ] A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf
 
 # Energy models/Self-supervised learning:
 - [ ] TARGET-EMBEDDING AUTOENCODERS FOR SUPERVISED REPRESENTATION LEARNING https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf
