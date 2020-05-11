@@ -27,9 +27,9 @@
 - [ ] Learning deep representations by mutual information estimation and maximization https://arxiv.org/abs/1808.06670
 - [ ] DEEP GRAPH INFOMAX https://arxiv.org/pdf/1809.10341.pdf
 - [ ] Improved Deep Metric Learning with Multi-class N-pair Loss Objective http://papers.nips.cc/paper/6200-improved-deep-metric-learning-with-multi-class-n-pair-loss-objective.pdf
+- [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
 
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
-- [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
 - [ ] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison https://arxiv.org/pdf/1901.07031.pdf
 - [ ] CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT https://arxiv.org/abs/2004.09167
