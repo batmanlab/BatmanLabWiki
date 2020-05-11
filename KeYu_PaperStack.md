@@ -17,6 +17,8 @@
 - [ ] Unsupervised Deep Learning by Neighbourhood Discovery https://arxiv.org/pdf/1904.11567.pdf
 - [X] A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf
 - [ ] Dimensionality Reduction by Learning an Invariant Mapping http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf
+- [ ] Distance Metric Learning for Large Margin
+Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf
 
 # Energy models/Self-supervised learning:
 - [ ] TARGET-EMBEDDING AUTOENCODERS FOR SUPERVISED REPRESENTATION LEARNING https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf
