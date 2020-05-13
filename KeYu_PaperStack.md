@@ -24,6 +24,7 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] TARGET-EMBEDDING AUTOENCODERS FOR SUPERVISED REPRESENTATION LEARNING https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf
 - [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION https://arxiv.org/pdf/1906.02694.pdf
 - [X] Contrastive Self-Supervised Learning https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html
+- [ ] LEARNING DEEP REPRESENTATIONS BY MUTUAL IN- FORMATION ESTIMATION AND MAXIMIZATION https://arxiv.org/pdf/1808.06670.pdf
 - [ ] Unsupervised Visual Representation Learning by Graph-based Consistent Constraints https://faculty.ucmerced.edu/mhyang/papers/eccv16_feature_learning.pdf
 - [ ] Revisiting Self-Supervised Visual Representation Learning https://arxiv.org/pdf/1901.09005.pdf
 - [ ] ClusterFit: Improving Generalization of Visual Representations https://arxiv.org/pdf/1912.03330.pdf
@@ -31,7 +32,7 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] DEEP GRAPH INFOMAX https://arxiv.org/pdf/1809.10341.pdf
 - [ ] Improved Deep Metric Learning with Multi-class N-pair Loss Objective http://papers.nips.cc/paper/6200-improved-deep-metric-learning-with-multi-class-n-pair-loss-objective.pdf
 - [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
-
+- [ ] Prototypical Contrastive Learning of Unsupervised Representations https://arxiv.org/pdf/2005.04966v1.pdf#page=2
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
 - [ ] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison https://arxiv.org/pdf/1901.07031.pdf
