@@ -15,20 +15,27 @@
 - [ ] GENERATIVE RATIO MATCHING NETWORKS https://openreview.net/pdf?id=SJg7spEYDS
 - [ ] Unsupervised Deep Embedding for Clustering Analysis http://proceedings.mlr.press/v48/xieb16.pdf
 - [ ] Unsupervised Deep Learning by Neighbourhood Discovery https://arxiv.org/pdf/1904.11567.pdf
+- [X] A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf
+- [ ] Dimensionality Reduction by Learning an Invariant Mapping http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf
+- [ ] Distance Metric Learning for Large Margin
+Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf
 
 # Energy models/Self-supervised learning:
+- [ ] A Tutorial on Energy-Based Learning (Yann LeCun) http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf
 - [ ] TARGET-EMBEDDING AUTOENCODERS FOR SUPERVISED REPRESENTATION LEARNING https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf
 - [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION https://arxiv.org/pdf/1906.02694.pdf
 - [X] Contrastive Self-Supervised Learning https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html
+- [ ] LEARNING DEEP REPRESENTATIONS BY MUTUAL IN- FORMATION ESTIMATION AND MAXIMIZATION https://arxiv.org/pdf/1808.06670.pdf
 - [ ] Unsupervised Visual Representation Learning by Graph-based Consistent Constraints https://faculty.ucmerced.edu/mhyang/papers/eccv16_feature_learning.pdf
 - [ ] Revisiting Self-Supervised Visual Representation Learning https://arxiv.org/pdf/1901.09005.pdf
 - [ ] ClusterFit: Improving Generalization of Visual Representations https://arxiv.org/pdf/1912.03330.pdf
 - [ ] Learning deep representations by mutual information estimation and maximization https://arxiv.org/abs/1808.06670
 - [ ] DEEP GRAPH INFOMAX https://arxiv.org/pdf/1809.10341.pdf
 - [ ] Improved Deep Metric Learning with Multi-class N-pair Loss Objective http://papers.nips.cc/paper/6200-improved-deep-metric-learning-with-multi-class-n-pair-loss-objective.pdf
-
+- [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
+- [ ] Prototypical Contrastive Learning of Unsupervised Representations https://arxiv.org/pdf/2005.04966v1.pdf#page=2
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
-- [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
 - [ ] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison https://arxiv.org/pdf/1901.07031.pdf
 - [ ] CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT https://arxiv.org/abs/2004.09167
+- [ ] High-throughput phenotyping with electronic medical record data using a common semi-supervised approach (PheCAP) https://www.nature.com/articles/s41596-019-0227-6.pdf
