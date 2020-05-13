@@ -21,6 +21,7 @@
 Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf
 
 # Energy models/Self-supervised learning:
+- [ ] A Tutorial on Energy-Based Learning (Yann LeCun) http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf
 - [ ] TARGET-EMBEDDING AUTOENCODERS FOR SUPERVISED REPRESENTATION LEARNING https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf
 - [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION https://arxiv.org/pdf/1906.02694.pdf
 - [X] Contrastive Self-Supervised Learning https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html
