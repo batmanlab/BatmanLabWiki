@@ -30,12 +30,14 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] Learning deep representations by mutual information estimation and maximization https://arxiv.org/abs/1808.06670
 - [ ] DEEP GRAPH INFOMAX https://arxiv.org/pdf/1809.10341.pdf
 - [ ] Improved Deep Metric Learning with Multi-class N-pair Loss Objective http://papers.nips.cc/paper/6200-improved-deep-metric-learning-with-multi-class-n-pair-loss-objective.pdf
-- [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
 - [ ] Prototypical Contrastive Learning of Unsupervised Representations https://arxiv.org/pdf/2005.04966v1.pdf#page=2
 - [ ] Unsupervised feature learning via non-parametric instance discrimination https://arxiv.org/pdf/1805.01978.pdf
 - [ ] Unsupervised embedding learning via invariant and spreading instance feature https://arxiv.org/pdf/1904.03436.pdf
 - [ ] Momentum contrast for unsupervised visual representation learning https://arxiv.org/abs/1911.05722
 - [ ] Self-supervised learning of pretext-invariant representations https://arxiv.org/pdf/1912.01991.pdf
+- [ ] Representation Learning with Contrastive Predictive Coding https://arxiv.org/pdf/1807.03748.pdf
+- [ ] Contrastive multiview coding https://arxiv.org/pdf/1906.05849.pdf
+- [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
 - [ ] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison https://arxiv.org/pdf/1901.07031.pdf
