@@ -13,8 +13,6 @@
 - [X] MMD GAN: Towards Deeper Understanding of Moment Matching Network: https://arxiv.org/pdf/1705.08584.pdf
 - [ ] Wasserstein GAN: https://arxiv.org/pdf/1701.07875.pdf
 - [ ] GENERATIVE RATIO MATCHING NETWORKS https://openreview.net/pdf?id=SJg7spEYDS
-- [ ] Unsupervised Deep Embedding for Clustering Analysis http://proceedings.mlr.press/v48/xieb16.pdf
-- [ ] Unsupervised Deep Learning by Neighbourhood Discovery https://arxiv.org/pdf/1904.11567.pdf
 - [X] A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf
 - [ ] Dimensionality Reduction by Learning an Invariant Mapping http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf
 - [ ] Distance Metric Learning for Large Margin
@@ -40,6 +38,13 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] Contrastive multiview coding https://arxiv.org/pdf/1906.05849.pdf
 - [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
 - [ ] A theoretical analysis of contrastive unsupervised representation learning https://arxiv.org/pdf/1902.09229.pdf
+- [ ] Unsupervised Deep Embedding for Clustering Analysis http://proceedings.mlr.press/v48/xieb16.pdf
+- [ ] Unsupervised Deep Learning by Neighbourhood Discovery https://arxiv.org/pdf/1904.11567.pdf
+- [ ] Joint unsupervised learning of deep representations and image clusters https://arxiv.org/pdf/1604.03628.pdf
+- [ ] Learning deep parsimonious representations https://papers.nips.cc/paper/6263-learning-deep-parsimonious-representations.pdf
+- [ ] Towards k-means-friendly spaces: Simultaneous deep learning and clustering https://arxiv.org/pdf/1610.04794.pdf
+- [ ] Deep adaptive image clustering http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf
+- [ ] Invariant information clustering for unsupervised image classification and segmentation https://arxiv.org/pdf/1807.06653.pdf
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
 - [ ] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison https://arxiv.org/pdf/1901.07031.pdf
