@@ -3,8 +3,7 @@
 - [X] The Graph Neural Network Model: http://persagen.com/files/misc/scarselli2009graph.pdf
 - [X] Relational inductive biases, deep learning, and graph networks: https://arxiv.org/pdf/1806.01261.pdf
 
-# Kernel/Unsupervised Metric learning
-# Energy models/Self-supervised learning:
+# Unsupervised Metric learning, Self-supervised learning:
 - [ ] Kernel Mean Embedding of Distributions: A Review and Beyond: https://arxiv.org/pdf/1605.09522.pdf
 - [X] Learning Deep Kernels for Non-Parametric Two-Sample Tests: https://arxiv.org/pdf/2002.09116.pdf
 - [X] Implicit Kernel Learning: https://arxiv.org/pdf/1902.10214.pdf
