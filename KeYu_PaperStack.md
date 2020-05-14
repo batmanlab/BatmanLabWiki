@@ -32,6 +32,8 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] Improved Deep Metric Learning with Multi-class N-pair Loss Objective http://papers.nips.cc/paper/6200-improved-deep-metric-learning-with-multi-class-n-pair-loss-objective.pdf
 - [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
 - [ ] Prototypical Contrastive Learning of Unsupervised Representations https://arxiv.org/pdf/2005.04966v1.pdf#page=2
+- [ ] Unsupervised feature learning via non-parametric instance discrimination https://arxiv.org/pdf/1805.01978.pdf
+- [ ] Unsupervised embedding learning via invariant and spreading instance feature https://arxiv.org/pdf/1904.03436.pdf
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
 - [ ] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison https://arxiv.org/pdf/1901.07031.pdf
