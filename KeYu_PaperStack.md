@@ -24,6 +24,7 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION https://arxiv.org/pdf/1906.02694.pdf
 - [X] Contrastive Self-Supervised Learning https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html
 - [X] LEARNING DEEP REPRESENTATIONS BY MUTUAL IN- FORMATION ESTIMATION AND MAXIMIZATION https://arxiv.org/pdf/1808.06670.pdf
+- [ ] ON MUTUAL INFORMATION MAXIMIZATION FOR REPRESENTATION LEARNING https://openreview.net/pdf?id=rkxoh24FPH
 - [ ] Unsupervised Visual Representation Learning by Graph-based Consistent Constraints https://faculty.ucmerced.edu/mhyang/papers/eccv16_feature_learning.pdf
 - [ ] Revisiting Self-Supervised Visual Representation Learning https://arxiv.org/pdf/1901.09005.pdf
 - [ ] ClusterFit: Improving Generalization of Visual Representations https://arxiv.org/pdf/1912.03330.pdf
