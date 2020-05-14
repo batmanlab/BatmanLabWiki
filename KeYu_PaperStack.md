@@ -39,6 +39,7 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] Representation Learning with Contrastive Predictive Coding https://arxiv.org/pdf/1807.03748.pdf
 - [ ] Contrastive multiview coding https://arxiv.org/pdf/1906.05849.pdf
 - [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
+- [ ] A theoretical analysis of contrastive unsupervised representation learning https://arxiv.org/pdf/1902.09229.pdf
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
 - [ ] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison https://arxiv.org/pdf/1901.07031.pdf
