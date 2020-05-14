@@ -35,6 +35,7 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] Unsupervised feature learning via non-parametric instance discrimination https://arxiv.org/pdf/1805.01978.pdf
 - [ ] Unsupervised embedding learning via invariant and spreading instance feature https://arxiv.org/pdf/1904.03436.pdf
 - [ ] Momentum contrast for unsupervised visual representation learning https://arxiv.org/abs/1911.05722
+- [ ] Self-supervised learning of pretext-invariant representations https://arxiv.org/pdf/1912.01991.pdf
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
 - [ ] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison https://arxiv.org/pdf/1901.07031.pdf
