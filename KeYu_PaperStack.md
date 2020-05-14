@@ -3,7 +3,7 @@
 - [X] The Graph Neural Network Model: http://persagen.com/files/misc/scarselli2009graph.pdf
 - [X] Relational inductive biases, deep learning, and graph networks: https://arxiv.org/pdf/1806.01261.pdf
 
-# Kernel/Unsupervised Metric learning:
+# Kernel/Unsupervised Metric learning, Energy models/Self-supervised learning:
 - [ ] Kernel Mean Embedding of Distributions: A Review and Beyond: https://arxiv.org/pdf/1605.09522.pdf
 - [X] Learning Deep Kernels for Non-Parametric Two-Sample Tests: https://arxiv.org/pdf/2002.09116.pdf
 - [X] Implicit Kernel Learning: https://arxiv.org/pdf/1902.10214.pdf
@@ -19,8 +19,6 @@
 - [ ] Dimensionality Reduction by Learning an Invariant Mapping http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf
 - [ ] Distance Metric Learning for Large Margin
 Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf
-
-# Energy models/Self-supervised learning:
 - [ ] A Tutorial on Energy-Based Learning (Yann LeCun) http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf
 - [ ] TARGET-EMBEDDING AUTOENCODERS FOR SUPERVISED REPRESENTATION LEARNING https://openreview.net/attachment?id=BygXFkSYDH&name=original_pdf
 - [X] DEEP SEMI-SUPERVISED ANOMALY DETECTION https://arxiv.org/pdf/1906.02694.pdf
