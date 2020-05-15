@@ -50,3 +50,5 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison https://arxiv.org/pdf/1901.07031.pdf
 - [ ] CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT https://arxiv.org/abs/2004.09167
 - [ ] High-throughput phenotyping with electronic medical record data using a common semi-supervised approach (PheCAP) https://www.nature.com/articles/s41596-019-0227-6.pdf
+# Tools
+Snorkel https://www.snorkel.org/
