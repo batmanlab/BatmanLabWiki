@@ -29,7 +29,7 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] Learning deep representations by mutual information estimation and maximization https://arxiv.org/abs/1808.06670
 - [ ] DEEP GRAPH INFOMAX https://arxiv.org/pdf/1809.10341.pdf
 - [ ] Improved Deep Metric Learning with Multi-class N-pair Loss Objective http://papers.nips.cc/paper/6200-improved-deep-metric-learning-with-multi-class-n-pair-loss-objective.pdf
-- [ ] Prototypical Contrastive Learning of Unsupervised Representations https://arxiv.org/pdf/2005.04966v1.pdf#page=2
+- [X] Prototypical Contrastive Learning of Unsupervised Representations https://arxiv.org/pdf/2005.04966v1.pdf#page=2
 - [ ] Unsupervised feature learning via non-parametric instance discrimination https://arxiv.org/pdf/1805.01978.pdf
 - [ ] Unsupervised embedding learning via invariant and spreading instance feature https://arxiv.org/pdf/1904.03436.pdf
 - [ ] Momentum contrast for unsupervised visual representation learning https://arxiv.org/abs/1911.05722
