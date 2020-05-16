@@ -53,3 +53,4 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] High-throughput phenotyping with electronic medical record data using a common semi-supervised approach (PheCAP) https://www.nature.com/articles/s41596-019-0227-6.pdf
 # Tools
 Snorkel https://www.snorkel.org/
+Slurm https://github.com/facebookincubator/submitit
