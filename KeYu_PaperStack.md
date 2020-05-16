@@ -52,5 +52,5 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT https://arxiv.org/abs/2004.09167
 - [ ] High-throughput phenotyping with electronic medical record data using a common semi-supervised approach (PheCAP) https://www.nature.com/articles/s41596-019-0227-6.pdf
 # Tools
-Snorkel https://www.snorkel.org/
-Slurm https://github.com/facebookincubator/submitit
+- Snorkel https://www.snorkel.org/
+- Slurm https://github.com/facebookincubator/submitit
