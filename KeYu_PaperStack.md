@@ -46,6 +46,7 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] Deep adaptive image clustering http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf
 - [ ] Invariant information clustering for unsupervised image classification and segmentation https://arxiv.org/pdf/1807.06653.pdf
 - [ ] Supervised Contrastive Learning https://arxiv.org/pdf/2004.11362.pdf
+- [ ] Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles https://arxiv.org/pdf/1603.09246.pdf
 # Medical Applications:
 - [ ] A Likelihood-Free Approach for Characterizing Heterogeneous Diseases in Large-Scale Studies: https://kayhan.dbmi.pitt.edu/sites/default/files/pub/main.pdf
 - [ ] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison https://arxiv.org/pdf/1901.07031.pdf
