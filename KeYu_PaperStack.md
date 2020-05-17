@@ -36,6 +36,7 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - [ ] Self-supervised learning of pretext-invariant representations https://arxiv.org/pdf/1912.01991.pdf
 - [X] Representation Learning with Contrastive Predictive Coding https://arxiv.org/pdf/1807.03748.pdf
 - [ ] Noise-contrastive estimation: A new estimation principle for unnormalized statistical models http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf
+- [ ] A fast and simple algorithm for training neural probabilistic language models: https://www.cs.toronto.edu/~amnih/papers/ncelm.pdf
 - [ ] Contrastive multiview coding https://arxiv.org/pdf/1906.05849.pdf
 - [ ] A Simple Framework for Contrastive Learning of Visual Representations: https://arxiv.org/pdf/2002.05709.pdf
 - [ ] A theoretical analysis of contrastive unsupervised representation learning https://arxiv.org/pdf/1902.09229.pdf
