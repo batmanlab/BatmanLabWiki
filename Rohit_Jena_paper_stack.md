@@ -2,14 +2,24 @@
 
 ### Lung vessel segmentation / Vessel detection
 
-- [ ] AdvectiveNet   [https://openreview.net/pdf?id=H1eqQeHFDS](https://openreview.net/pdf?id=H1eqQeHFDS)
+- [x] AdvectiveNet   [https://openreview.net/pdf?id=H1eqQeHFDS](https://openreview.net/pdf?id=H1eqQeHFDS)
+
 - [ ] Lung Extraction, Lobe Segmentation and Hierarchical Region Assessment for Quantitative Analysis on High Resolution Computed Tomography Images https://www.ncbi.nlm.nih.gov/pubmed/20426172
+
 - [x] Particle extraction scale-space https://www.ncbi.nlm.nih.gov/pubmed/19834216
-- [ ] A U-Net Deep Learning Framework for High Performance Vessel Segmentation in Patients With Cerebrovascular Disease https://www.frontiersin.org/articles/10.3389/fnins.2019.00097/full
+
+- [x] A U-Net Deep Learning Framework for High Performance Vessel Segmentation in Patients With Cerebrovascular Disease https://www.frontiersin.org/articles/10.3389/fnins.2019.00097/full
+
 - [x] VesselNet https://www.sciencedirect.com/science/article/abs/pii/S0895611118304099
+
 - [x] VESSEL12 https://www.sciencedirect.com/science/article/abs/pii/S136184151400111X
+
 - [ ] DeepVesselNet https://arxiv.org/pdf/1803.09340.pdf
-- [ ] LBS Autoencoder: Self-supervised Fitting of Articulated Meshes to Point Clouds https://arxiv.org/abs/1904.10037
+
+- [x] LBS Autoencoder: Self-supervised Fitting of Articulated Meshes to Point Clouds https://arxiv.org/abs/1904.10037
+
+- [ ] VTrails: Inferring Vessels with Geodesic Connectivity Trees https://discovery.ucl.ac.uk/id/eprint/10061186/1/1806.03111v1.pdf
+
 - [ ] Inference of Cerebrovascular Topology With Geodesic Minimum Spanning Trees https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6319031/pdf/tmi-moriconi-2860239.pdf
 
   
@@ -20,7 +30,8 @@
 - [x] Spherical CNNs https://arxiv.org/pdf/1801.10130.pdf
 - [ ] Spherical CNNs on Unstructured Grids https://arxiv.org/pdf/1901.02039.pdf
 - [x] Spherical CNNs tutorial https://medium.com/@samramasinghe/spherical-convolution-a-theoretical-walk-through-98e98ee64655
-- [ ] Group equivariant convolutional networks https://arxiv.org/pdf/1602.07576.pdf
+- [x] Group equivariant convolutional networks https://arxiv.org/pdf/1602.07576.pdf
+- [x] Theoretical Aspects of Group Equivariant Neural Networks https://arxiv.org/abs/2004.05154
 
 
 
