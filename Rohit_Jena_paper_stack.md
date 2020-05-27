@@ -22,6 +22,14 @@
 
 - [ ] Inference of Cerebrovascular Topology With Geodesic Minimum Spanning Trees https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6319031/pdf/tmi-moriconi-2860239.pdf
 
+- [ ] Ridge detection in images with thin structures https://link.springer.com/content/pdf/10.1007%2F978-3-642-16687-7_52.pdf
+
+- [x] Frangi filter https://link.springer.com/content/pdf/10.1007%2FBFb0056195.pdf
+
+- [x] Deep Vesselness measure from scale-space analysis of Hessian eigenvalues [DL] http://www.inescporto.pt/~jsc/publications/conferences/2019RAraujoIBPRIA.pdf
+
+- [x] Frangi Net https://arxiv.org/pdf/1711.03345.pdf
+
   
 
 
@@ -32,6 +40,8 @@
 - [x] Spherical CNNs tutorial https://medium.com/@samramasinghe/spherical-convolution-a-theoretical-walk-through-98e98ee64655
 - [x] Group equivariant convolutional networks https://arxiv.org/pdf/1602.07576.pdf
 - [x] Theoretical Aspects of Group Equivariant Neural Networks https://arxiv.org/abs/2004.05154
+- [ ] https://erikbekkers.bitbucket.io/data/Bekkers_EJ_PhD_Thesis.pdf
+- [ ] 
 
 
 
@@ -44,3 +54,8 @@
 - [ ] Dynamic Graph CNN for Learning on Point Clouds https://arxiv.org/pdf/1801.07829.pdf
 - [ ] Shape Registration with Spherical Cross Correlation https://hal.inria.fr/inria-00632874/document
 - [ ] PointTriNet https://arxiv.org/pdf/2005.02138.pdf
+- [x] Neural ODE https://arxiv.org/abs/1806.07366
+- [x] FFJORD https://arxiv.org/pdf/1810.01367.pdf
+- [x] PointFlow https://arxiv.org/pdf/1906.12320.pdf
+- [ ] Deep Diffeomorphic NF https://arxiv.org/pdf/1810.03256.pdf
+
