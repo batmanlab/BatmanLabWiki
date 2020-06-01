@@ -16,6 +16,10 @@
 - [x] Frangi filter https://link.springer.com/content/pdf/10.1007%2FBFb0056195.pdf
 - [x] Deep Vesselness measure from scale-space analysis of Hessian eigenvalues [DL] http://www.inescporto.pt/~jsc/publications/conferences/2019RAraujoIBPRIA.pdf
 - [x] Frangi Net https://arxiv.org/pdf/1711.03345.pdf
+- [ ] Deep vessel segmentation by learning graphical connectivity https://www.sciencedirect.com/science/article/abs/pii/S1361841519300982
+- [ ] Real-World Usage Scenarios of Deep Vessel Segmentation for Retinography https://arxiv.org/pdf/1909.03856.pdf
+- [ ] DeepVessel [https://oar.a-star.edu.sg/jspui/bitstream/123456789/1902/3/DeepVessel%20-%20Retinal%20Vessel%20Segmentation%20via%20Deep%20Learning%20and%20Conditional%20Random%20Field.pdf](https://oar.a-star.edu.sg/jspui/bitstream/123456789/1902/3/DeepVessel - Retinal Vessel Segmentation via Deep Learning and Conditional Random Field.pdf)
+- [ ] A retinal vessel detection approach using convolution neural network with reinforcement sample learning strategy https://www.sciencedirect.com/science/article/pii/S0263224118303841
 
 
 ### Gauge theory / Geometric Deep Learning
