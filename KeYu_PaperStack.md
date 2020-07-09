@@ -61,3 +61,4 @@ Nearest Neighbor Classification http://jmlr.csail.mit.edu/papers/volume10/weinbe
 - RAY https://github.com/ray-project/ray ( Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.)
 - Snorkel https://www.snorkel.org/
 - Slurm https://github.com/facebookincubator/submitit
+- JAX https://github.com/google/jax
