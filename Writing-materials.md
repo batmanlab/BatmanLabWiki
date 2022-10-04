@@ -1,7 +1,6 @@
 # Courses on writing 
-1. BIOENG 2900 - Seminar course \
-2. Bioinf 2134 - Bioinf 2134 \
-
+1. BIOENG 2900 - Seminar course 
+2. Bioinf 2134 - Bioinf 2134 
 3. CLRES 2076 - INTRODUCTION TO GRANT WRITING
 Minimum Credits: 1
 Maximum Credits: 1
