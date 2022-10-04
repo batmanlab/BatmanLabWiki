@@ -9,3 +9,4 @@ Academic Career: Graduate
 Course Component: Lecture
 Grade Component: Grad LG/SU3 Basis
 Course Requirements: PLAN: Medical Education (ACM or MS) or Clinical Research (ACM or MS) or Clinical and Translational Sci or Graduate Career Development (GCD-ND)
+4. How the NIH can help you get funded (Book) - Michelle L Kienholz, Jeremy M Berg
