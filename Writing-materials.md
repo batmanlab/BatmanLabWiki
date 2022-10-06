@@ -1,9 +1,9 @@
 # Courses on writing 
 
 ## Courses offered at Pitt
-1. BIOENG 2900 - Seminar course 
-2. Bioinf 2134 - Bioinf 2134 
-3. CLRES 2076 - INTRODUCTION TO GRANT WRITING
+1. BIOENG 2900 - Seminar course (for Grant writing)
+2. Bioinf 2134 - Bioinf 2134 (for General Academic writing)
+3. CLRES 2076 - INTRODUCTION TO GRANT WRITING (for Grant writing)
 
 
 ## Book
